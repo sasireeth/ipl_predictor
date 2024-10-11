@@ -1,4 +1,4 @@
-# IPL_p]Predictor
+# IPL_Predictor
 
 ### Clone the Repository
 ```bash
